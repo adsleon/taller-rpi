@@ -1,0 +1,7 @@
+Toda la información e imágenes empleadas a lo largo del taller se han obtenido de las siguientes fuentes:
+
+  - https://projects.raspberrypi.org/es-ES/projects/raspberry-pi-getting-started/
+  - https://projects.raspberrypi.org/en/projects/physical-computing
+  - https://projects.raspberrypi.org/en/projects/gpio-music-box
+  - https://raspberrypi.org
+  - canva.com
