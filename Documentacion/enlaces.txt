@@ -4,4 +4,5 @@ Toda la información e imágenes empleadas a lo largo del taller se han obtenido
   - https://projects.raspberrypi.org/en/projects/physical-computing
   - https://projects.raspberrypi.org/en/projects/gpio-music-box
   - https://raspberrypi.org
+  - https://pinout.xyz
   - canva.com
