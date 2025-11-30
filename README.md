@@ -17,16 +17,44 @@ Durante la sesión veremos cómo controlar **LEDs**, **botones**, y entender el 
 ## Estructura del repositorio
 
 ```bash
-taller-rpi/
-├── Documentacion/
-│   ├── enlaces.txt            # Recursos y documentación adicional
-│   └── GPIO-PINOUT.jpeg       # Diagrama de pines de la Raspberry Pi
-├── src/
-│   ├── buttonAccion.py        # Acciones básicas con un botón
-│   ├── led17blink.py          # Parpadeo de un LED conectado al pin 17
-│   ├── led17off.py            # Apagado manual del LED
-│   └── pressToLed.py          # Encendido del LED al presionar el botón
-└── README.md
+❯ tree
+.
+├── Documentacion
+│   ├── enlaces.md
+│   ├── GPIO-PINOUT.jpeg
+│   └── Librería_RPi.GPIO_diferenciacion_pines.md
+├── enunciados
+│   ├── ejercicio1-pinout.png
+│   ├── Enunciado1.md
+│   └── Enunciado2.md
+├── README.md
+└── src
+   ├── taller0.0
+   │   ├── buttonAccion.py
+   │   ├── led17blink.py
+   │   ├── led17off.py
+   │   └── pressToLed.py
+   └── taller1.0
+      ├── gipozero
+      │   ├── etapa1.py
+      │   ├── etapa2.py
+      │   ├── etapa3.py
+      │   ├── etapa4.py
+      │   ├── etapa5.py
+      │   ├── etapa6.py
+      │   ├── etapa7.py
+      │   └── etapa8.py
+      └── rpi.gpio
+         ├── etapa1.py
+         ├── etapa2.py
+         ├── etapa3.py
+         ├── etapa4.py
+         ├── etapa5.py
+         ├── etapa6.py
+         ├── etapa7.py
+         └── etapa8.py
+
+8 directories, 27 files
 ```
 
 ---
@@ -71,7 +99,9 @@ taller-rpi/
 
 ## Documentación visual
 
-En la carpeta [`Documentacion/`](./Documentacion) encontrarás el esquema de pines de la Raspberry Pi (`GPIO-PINOUT.jpeg`) y un archivo con enlaces útiles (`enlaces.txt`) para profundizar tras el taller.
+En la carpeta [`Documentacion/`](./Documentacion) encontrarás el esquema de pines de la Raspberry Pi (`GPIO-PINOUT.jpeg`) y un archivo con enlaces útiles (`enlaces.md`) para profundizar tras el taller.
+
+Puedes consultar la lista de recursos directamente aquí: [Documentacion/enlaces.md](./Documentacion/enlaces.md)
 
 ---
 
