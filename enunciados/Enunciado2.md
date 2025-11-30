@@ -1,4 +1,4 @@
-1. Dispongo de dos linternas para mi bicicleta del modelo **BTWIN Viooclip (Decathlon)**. Estas son de dos colores diferentes: **blanco** y **rojo**. Su funcionamiento es muy sencillo:  
+2. Dispongo de dos linternas para mi bicicleta del modelo **BTWIN Viooclip (Decathlon)**. Estas son de dos colores diferentes: **blanco** y **rojo**. Su funcionamiento es muy sencillo:  
    - Un pulso para **encender**  
    - Un segundo pulso para **cambiar de modo**  
    - Un pulso de *x* segundos para **apagar**  
